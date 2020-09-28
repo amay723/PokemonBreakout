@@ -1,0 +1,29 @@
+// File: resources.rc
+// Author: 
+// Project: CS215 Project 3 Fall 2016
+// Description of file contents:
+
+BACKGROUND_BMP 	BITMAP	Background.bmp
+
+WALL_BMP	BITMAP	Wall.bmp
+
+PATH_BMP	BITMAP	Path.bmp
+
+CHARACTER_BMP	BITMAP	Character.bmp
+CHARACTER_UP_BMP	BITMAP	Character_UP.bmp
+CHARACTER_LT_BMP	BITMAP	Character_LT.bmp
+CHARACTER_RT_BMP	BITMAP	Character_RT.bmp
+
+SNOZZLE_BMP	BITMAP	Snozzle.bmp
+PIKA_BMP	BITMAP	Pika.bmp
+SLOWP_BMP	BITMAP	Slowp.bmp
+PIDDY_BMP	BITMAP	Piddy.bmp
+POLIWRATH_BMP	BITMAP	Poliwrath.bmp
+PSYDUCK_BMP	BITMAP	Psyduck.bmp
+VOLT_BMP	BITMAP	Volt.bmp
+
+MEW_BMP		BITMAP	Mew.bmp
+
+ZAPDOS_BMP	BITMAP	Zapdos.bmp
+MOLTRES_BMP	BITMAP	Moltres.bmp
+ARTICUNO_BMP	BITMAP	Articuno.bmp

@@ -1,0 +1,3 @@
+I have created 18 total images that go into the maze, including 11 functioning goals. I am able to randomly spawn in goals throughout the maze, and can spawn another goal randomly thoughout the maze when one goal is achieved. Each goal has different statistics, such as varying scores and time modifications and some even spawn special goals based off certain percenatages.
+
+What I have noticed is that sometimes there is a delay when spawning in new monsters, sometimes a few steps after a goal is reached. It seems random.
